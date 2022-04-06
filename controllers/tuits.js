@@ -108,7 +108,7 @@ export default [
         "tuits": "122K",
         "stats": {
             "comments": 3323,
-            "retuits": 23444
+            "retuits": 44
         },
         "likes": 34,
         "dislikes": 66
